@@ -86,12 +86,6 @@ The dashboard features:
 
 ---
 
-## 🖼️ Dashboard Screenshot
-
-![Ecommerce Sales Dashboard](Screenshot.png)
-
----
-
 ## 🙋‍♂️ Author
 
 **My LinkedIn Profile**  
