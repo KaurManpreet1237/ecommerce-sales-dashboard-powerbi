@@ -38,3 +38,20 @@ The dashboard features:
 
 ---
 
+## 🖼️ Dashboard Screenshot
+
+![Ecommerce Sales Dashboard](Screenshot.png)
+
+---
+
+## 🙋‍♂️ Author
+
+**Manpreet**  
+📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
