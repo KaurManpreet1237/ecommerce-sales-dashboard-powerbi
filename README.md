@@ -14,6 +14,54 @@ The dashboard features:
 
 ---
 
+## 📌 Dashboard Overview
+
+### 🔹 Main Dashboard
+![Dashboard](https://github.com/KaurManpreet1237/ecommerce-sales-dashboard-powerbi/blob/6198c5a4bec4c881c15e259d6146b1ee213fde21/Dashboard-Screenshot/Dashboard.png)
+
+- Summary KPIs: Total Sales, Profit, Quantity, Revenue
+- Visualizations: Sales by Segment, Profit by Category, Profit by State (Map)
+- Dynamic filters and slicers
+
+---
+
+### 🔹 Quarterly View
+![Quarter 1 Dashboard](https://github.com/KaurManpreet1237/ecommerce-sales-dashboard-powerbi/blob/6198c5a4bec4c881c15e259d6146b1ee213fde21/Dashboard-Screenshot/Dashboard-quater-1.png)
+
+- Focused analysis on Quarter 1
+- All KPIs and visuals dynamically adjust based on time period
+
+---
+
+### 🔹 State Filter Dropdown
+![State Dropdown](https://github.com/KaurManpreet1237/ecommerce-sales-dashboard-powerbi/blob/6198c5a4bec4c881c15e259d6146b1ee213fde21/Dashboard-Screenshot/Dashboard-state-Dropdown.png)
+
+- Interactive state dropdown to filter visuals by region
+- Supports localized analysis across different states
+
+---
+
+## 🧠 Data Model
+![Model View](https://github.com/KaurManpreet1237/ecommerce-sales-dashboard-powerbi/blob/6198c5a4bec4c881c15e259d6146b1ee213fde21/Dashboard-Screenshot/Model-view.png)
+
+- Star schema model with relationships between:
+  - Sales
+  - Customer
+  - Product
+  - Date
+  - Region
+
+---
+
+## 📊 Table View
+![Table View](Dashboard-Screenshot/Table-view.png)
+
+- Raw data table
+- Columns: Order ID, Product Name, Sales, Quantity, etc.
+- Helps in validating and auditing data feeding the visuals
+
+---
+
 ### 📈 Key Visuals
 - 📉 **Profit by Month** (Bar + Line Combo)
 - 🗺️ **Sum of Amount by State**
