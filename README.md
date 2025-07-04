@@ -94,8 +94,8 @@ The dashboard features:
 
 ## 🙋‍♂️ Author
 
-**Manpreet**  
-📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+**My LinkedIn Profile**  
+📎 [Connect with me on LinkedIn](https://www.linkedin.com/in/manpreet-kaur-52b805329/)
 
 ---
 
